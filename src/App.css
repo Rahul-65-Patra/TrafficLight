@@ -1,0 +1,52 @@
+body{
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.traffic-light{
+  width: 80px;
+  height: 220px;
+  background-color: black;
+  border-radius: 6px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.light{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: gray;
+  transition: background-color 0.5s ease-in-out;
+  cursor: pointer;
+}
+.red.active {
+  background-color: red;
+}
+
+.yellow.active {
+  background-color: yellow;
+}
+
+.green.active {
+  background-color: green;
+}
