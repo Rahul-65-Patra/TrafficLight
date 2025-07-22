@@ -26,3 +26,11 @@ dist-ssr
 # Ignore specific files
 Traffic.mp4
 Traffic.png
+
+# Ignore specific files
+Traffic.mp4
+Traffic.png
+
+# Optionally ignore all .mp4 and .png files
+*.mp4
+*.png
