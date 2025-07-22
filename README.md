@@ -21,7 +21,7 @@ Click the image below to watch the demo:
 
 ## 🛠️ Technologies Used
 - ⚛️ **React.js** (Functional Components & Hooks)  
-- 🎨 **CSS** (Animations & Styling)
+- 🎨 **Tailwindcss** (Animations & Styling)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=typescript&logoColor=black)
