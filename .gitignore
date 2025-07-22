@@ -32,5 +32,11 @@ Traffic.mp4
 Traffic.png
 
 # Optionally ignore all .mp4 and .png files
+# Ignore all image/video files
 *.mp4
+*.mov
+*.avi
 *.png
+*.jpg
+*.jpeg
+*.gif
